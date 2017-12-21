@@ -1,3 +1,9 @@
+/*
+ *
+ *	compare runtimes of fib imp using bad recursion and loops
+ *	$ g++ fibonacci.cpp -o fibonacci.o
+ */
+
 
 #include <iostream>
 #include <ctime>
